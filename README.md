@@ -42,7 +42,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vladoss9293/Vladoss9293/output/snake.svg" alt="Snake animation" />
-
 ###
