@@ -73,8 +73,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="left">🔧 Strengthening my Frontend skills<br><br>⚛ Diving deeper into React and TypeScript<br><br>🌟 Mastering UI/UX patterns<br><br>⚡ Exploring performance optimization techniques</h5>
 
 ---
