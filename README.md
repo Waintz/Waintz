@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 How are you today?</h1>
+<h1 align="left">Hey 👋?</h1>
 
 ###
 
