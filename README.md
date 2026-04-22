@@ -1,7 +1,3 @@
-<h1 align="left">Hey 👋</h1>
-
-###
-
 <h6 align="left">👨‍💻 Frontend Developer</h6>
 
 ###
